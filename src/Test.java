@@ -14,7 +14,7 @@ public class Test {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("This is just a test class. Changed from remote");
+        System.out.println("This is just a test class. Changed from remote. And changed again!");
     }
     
 }
